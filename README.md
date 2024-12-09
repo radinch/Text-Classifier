@@ -3,4 +3,5 @@ This repository contains a Jupyter Notebook implementing a BERT-based text class
 
 ## Key Features
 Data Exploration: Includes a comprehensive exploratory data analysis (EDA) to uncover patterns and insights in the dataset prior to training.
+
 Transformer Model: Utilizes the BERT architecture for text classification, showcasing its ability to handle multilingual text.
